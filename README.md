@@ -1,6 +1,6 @@
 # ExperienceIn
 
-Projeto Final para a matéria de PPI2. Criação de uma aplicação web integrada a uma API em Python e um front-end em ReactJS de um protótipo de rede social.
+Projeto Final para a matéria de PPI2. Criação de um protótipo de rede social integrado a uma API em Python e a um front-end em ReactJS.
 <br></br>
 
 IFB- Instituto Federal de Educação, ciência e tecnologia de Brasília
@@ -14,7 +14,7 @@ Disciplina: Programação para internet 2- Prof. Fábio Henrique
 Tecnologias: Python, Django, React.
 
 Status: Finalizado
-
+<br></br>
 
 Link para a aplicação: http://lucasv.pythonanywhere.com/
 
