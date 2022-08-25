@@ -1,7 +1,7 @@
 # ExperienceIn
 
 Projeto Final para a matéria de PPI2. Criação de uma aplicação web integrada a uma API em Python e um front-end em ReactJS de um protótipo de rede social.
-</br>
+<br></br>
 
 IFB- Instituto Federal de Educação, ciência e tecnologia de Brasília
 
